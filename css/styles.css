@@ -79,11 +79,8 @@
   --bs-highlight-bg: #fff3cd;
 }
 
-.bgprimary{
-  background-color: black !important;
-  background-image: url(../assets/img/me.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
+.bg-primary{
+  background-color: lightblue !important;
 }
 
 #redred{
