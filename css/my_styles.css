@@ -1,0 +1,47 @@
+/* 全域設定 */
+.notransform{
+    text-transform: none !important; 
+}
+
+.zeweicenter{
+    text-align: center;
+}
+
+#redred{
+    padding: 20px;
+    background-color: #002f75;
+    color: white;
+    border: 10px solid rgb(255, 251, 0);
+    border-radius: 30px;
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Noto Serif Tc', sans-serif;
+    letter-spacing: 0.8px;
+    line-height: 1em;
+  }
+  
+  #red02{
+    padding: 20px;
+    background-color: #0dcaf0;
+    color: white;
+    border: 10px solid orange;
+    border-radius: 5px;
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Noto Serif Tc', sans-serif;
+    letter-spacing: 0.8px;
+    line-height: 1.5em;
+  }
+  
+  #red03 {
+      padding: 20px;
+      background-color: #002f75;
+      color: white;
+      border: 10px solid rgb(255, 251, 0);
+      border-radius: 30px;
+      font-size: 40px;
+      text-align: center;
+      font-family: 'Noto Serif Tc', sans-serif;
+      letter-spacing: 0.8px;
+      line-height: 1em;
+  }
