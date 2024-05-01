@@ -79,3 +79,18 @@
     text-align: center;
 }
 
+body {
+    background-color: rgb(199,205,241,0.5);
+    font-family: 'Noto serif TC',sans-serif;
+}
+
+.blueblue {
+    color: #002f75;
+}
+
+.noto-serif-tc-regular {
+    font-family: "Noto Serif TC", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
