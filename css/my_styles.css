@@ -19,6 +19,9 @@
     letter-spacing: 0.8px;
     line-height: 1em;  
     max-width: 100%;
+    height: auto;
+    width: auto;
+    display: block;
   }
   
   #red02{
